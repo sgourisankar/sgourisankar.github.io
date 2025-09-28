@@ -1,0 +1,19 @@
+title: "Sai Gourisankar"
+email: "saipg [at] stanford [dot] edu"
+description: >- 
+  Personal website of Sai Gourisankar.
+baseurl: "" # for user.github.io
+url: "https://saigourisankar.github.io"
+theme: null
+markdown: kramdown
+repository: sgourisankar/saigourisankar.github.io
+
+# Navigation
+nav:
+  - title: "About"
+    url: /
+  - title: "Publications"
+    url: /publications/
+  - title: "CV"
+    url: /assets/cv.pdf
+

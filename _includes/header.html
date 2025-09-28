@@ -1,0 +1,14 @@
+<header class="site-header">
+  <nav>
+    <ul>
+      {% for item in site.nav %}
+        {% if item.title == "CV" %}
+          <li><a href="{{ item.url | relative_url }}" class="cv-nav" target="_blank">{{ item.title }}</a></li>
+        {% else %}
+          <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </nav>
+</header>
+

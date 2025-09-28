@@ -1,0 +1,151 @@
+body {
+  font-family: Lato, Sans serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  color: #5b5b5b;
+  background: #ffffff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: black;
+}
+
+.site-header {
+  background: #f9f9f9;
+  padding: 1em;
+  text-align: center;
+}
+
+.site-header ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.site-header li {
+  display: inline;
+  margin: 0 1em;
+}
+
+.site-header a {
+  text-decoration: none;
+  color: #222;
+}
+
+.content {
+  max-width: 800px;
+  margin: auto;
+  padding: 2em;
+}
+
+h1 {
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 0.3em;
+}
+
+.profile {
+  float: right;
+  max-width: 200px;
+  margin: 0 0 1em 1em;
+  border-radius: 50%;
+}
+
+.cv-button {
+  display: inline-block;
+  background: #444;
+  color: white;
+  padding: 0.6em 1.2em;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background 0.3s ease;
+  margin-top: 1em;
+}
+
+.cv-button:hover {
+  background: #222;
+}
+
+.cv-nav {
+  background: #16537e;
+  color: white !important;
+  padding: 0.1em 0.3em;
+  border-radius: 6px;
+  font-weight: bold;
+  transition: background 0.3s ease;
+}
+
+.cv-nav:hover {
+  background: #5b5b5b;
+}
+
+.page-content h2 {
+  margin-top: 2em;
+  font-size: 1.4em;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 0.2em;
+}
+
+.page-content ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.page-content li {
+  margin-bottom: 0.8em;
+}
+
+.site-footer {
+  text-align: center;
+  padding: 1em;
+  background: #f9f9f9;
+  margin-top: 2em;
+}
+
+.publications h3 {
+  color: #555555;
+  font-weight: 500;
+}
+
+/* PUBLICATION BUTTONS */
+.publication-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin: 5px 0 10px 0;
+}
+
+.button {
+  display: inline-block;
+  padding: 5px 9px;
+  background-color: #16537e;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: 500;
+  font-size: 14px;
+  transition: background-color 0.3s, transform 0.2s;
+}
+
+.button:hover {
+  background-color: #2986cc;
+  transform: translateY(-1px);
+}
+
+.button-secondary {
+  background-color: #000000;
+}
+
+.button-secondary:hover {
+  background-color: #5b5b5b;
+}
+
+.button-accent {
+  background-color: #bf9000;
+}
+
+.button-accent:hover {
+  background-color: #ffdf00;
+}
+
