@@ -4,7 +4,7 @@ description: >-
   Personal website of Sai Gourisankar.
 baseurl: "" # for user.github.io
 url: "https://saigourisankar.github.io"
-theme: minima
+theme: null
 markdown: kramdown
 repository: sgourisankar/saigourisankar.github.io
 
