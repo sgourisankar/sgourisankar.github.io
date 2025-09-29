@@ -11,7 +11,7 @@ permalink: /
 <a href="https://www.linkedin.com/in/saigourisankar" class="button button-accent" target="_blank" rel="noopener noreferrer">
     <i class="fab fa-linkedin"></i> LinkedIn
 </a>
-<a href="https://scholar.google.com/citations?user=saipg" class="button button-accent" target="_blank" rel="noopener noreferrer">
+<a href="https://scholar.google.com/citations?user=m8nxaWMAAAAJ&hl=en&oi=ao" class="button button-accent" target="_blank" rel="noopener noreferrer">
     <i class="fas fa-graduation-cap"></i> Google Scholar
 </a>
 <a href="/assets/cv.pdf" class="button" download>
