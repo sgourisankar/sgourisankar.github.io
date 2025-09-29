@@ -3,7 +3,7 @@ email: "saipg [at] stanford [dot] edu"
 description: >- 
   Personal website of Sai Gourisankar.
 baseurl: "" # for user.github.io
-url: "https://sgourisankar.github.io"
+url: "https://saipg.com"
 theme: null
 markdown: kramdown
 repository: sgourisankar/sgourisankar.github.io
