@@ -6,7 +6,7 @@ baseurl: "" # for user.github.io
 url: "https://sgourisankar.github.io"
 theme: null
 markdown: kramdown
-repository: sgourisankar/saigourisankar.github.io
+repository: sgourisankar/sgourisankar.github.io
 
 # Navigation
 nav:
