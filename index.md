@@ -13,7 +13,7 @@ permalink: /
 </a>
 <a href="https://scholar.google.com/citations?user=m8nxaWMAAAAJ&hl=en&oi=ao" class="button button-accent" target="_blank" rel="noopener noreferrer">
     <i class="fas fa-graduation-cap"></i> Google Scholar
-</a>
+</a> 
 <a href="/assets/cv.pdf" class="button" download>
     <i class="fas fa-file-pdf"></i> Download CV
 </a>
