@@ -68,35 +68,35 @@ E.J. Chory, J.G. Kirkland, C-Y. Chang, V.D. D’Andrea, **S. Gourisankar**, E.C.
 
 ## Pre-2020
 #### Formation of small gold nanoparticle chains with high NIR extinction through bridging with calcium ions
-R.J. Stover\*, E. Moaseri\*, *S. Gourisankar*, N. Rahbar, B. Changalvaie, M. Iqbal, T. Truskett, K. Johnston. *Langmuir*, **32**, 1127-1138 (2016).
+R.J. Stover\*, E. Moaseri\*, **S. Gourisankar**, N. Rahbar, B. Changalvaie, M. Iqbal, T. Truskett, K. Johnston. *Langmuir*, **32**, 1127-1138 (2016).
 <div class="publication-buttons">
     <a href="https://pubs.acs.org/doi/10.1021/acs.langmuir.5b03639" class="button" target="_blank" rel="noopener noreferrer">Publication</a>
   <a href="/assets/paperFormationof.pdf" class="button button-secondary" download>PDF</a>
 </div>
 
 #### Quenched assembly of NIR-active gold nanoclusters capped with strongly bound ligands by tuning particle charge via pH and salinity
-R.J. Stover, A.K. Murthy, G.D. Nie, *S. Gourisankar*, B.J. Dear, T.M. Truskett, K.V. Sokolov, K.P. Johnston. *J. Phys Chem C.*, **118**, 14291-14298 (2014).
+R.J. Stover, A.K. Murthy, G.D. Nie, **S. Gourisankar**, B.J. Dear, T.M. Truskett, K.V. Sokolov, K.P. Johnston. *J. Phys Chem C.*, **118**, 14291-14298 (2014).
 <div class="publication-buttons">
     <a href="https://pubs.acs.org/doi/10.1021/jp408715p" class="button" target="_blank" rel="noopener noreferrer">Publication</a>
   <a href="/assets/paperQuenchedassembly.pdf" class="button button-secondary" download>PDF</a>
 </div>
 
 #### Equilibrium gold nanoclusters quenched with biodegradable polymers
-A.K. Murthy, R.J. Stover, A.U. Borwankar, G.D. Nie, *S. Gourisankar*, T.M. Truskett, K.V. Sokolov, K.P. Johnston. *ACS Nano.*, **7**, 239-251 (2013).
+A.K. Murthy, R.J. Stover, A.U. Borwankar, G.D. Nie, **S. Gourisankar**, T.M. Truskett, K.V. Sokolov, K.P. Johnston. *ACS Nano.*, **7**, 239-251 (2013).
 <div class="publication-buttons">
     <a href="https://pubs.acs.org/doi/10.1021/nn303937k" class="button" target="_blank" rel="noopener noreferrer">Publication</a>
   <a href="/assets/paperEquilibriumgold.pdf" class="button button-secondary" download>PDF</a>
 </div>
 
 #### Charged gold nanoparticles with essentially zero serum protein adsorption in undiluted fetal bovine serum
-A.K. Murthy, R.J. Stover, W.G. Hardin, R. Schramm, G.D. Nie, *S. Gourisankar*, K.V. Sokolov, K.P. Johnston. *J. Am. Chem. Soc.*, **135**, 7799-7802 (2013).
+A.K. Murthy, R.J. Stover, W.G. Hardin, R. Schramm, G.D. Nie, **S. Gourisankar**, K.V. Sokolov, K.P. Johnston. *J. Am. Chem. Soc.*, **135**, 7799-7802 (2013).
 <div class="publication-buttons">
     <a href="https://pubs.acs.org/doi/10.1021/ja400701c" class="button" target="_blank" rel="noopener noreferrer">Publication</a>
   <a href="/assets/paperChargedgold.pdf" class="button button-secondary" download>PDF</a>
 </div>
 
 #### Silver-free synthesis of nitrate-containing room-temperature ionic liquids
-N.W. Smith, *S.P. Gourisankar*, J.L. Montchamp, S.V. Dzyuba. *New J. Chem.*, **35**, 909-914 (2011).
+N.W. Smith, **S.P. Gourisankar**, J.L. Montchamp, S.V. Dzyuba. *New J. Chem.*, **35**, 909-914 (2011).
 <div class="publication-buttons">
     <a href="https://pubs.rsc.org/en/content/articlelanding/2011/nj/c0nj00881h" class="button" target="_blank" rel="noopener noreferrer">Publication</a>
   <a href="/assets/paperSilverfree.pdf" class="button button-secondary" download>PDF</a>
