@@ -7,8 +7,8 @@ body {
   background: #ffffff;
 }
 a {
-        color: #5b5b5b; /* Sets the default link color to same as text */
-        text-decoration: none; /* Optional: Removes the default underline */
+        color: #5b5b5b; !important; /* Sets the default link color to same as text */
+        text-decoration: none; !important; /* Optional: Removes the default underline */
 }
 
 a:visited {
