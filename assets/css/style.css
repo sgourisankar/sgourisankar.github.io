@@ -6,7 +6,14 @@ body {
   color: #5b5b5b;
   background: #ffffff;
 }
+a {
+        color: #5b5b5b; /* Sets the default link color to same as text */
+        text-decoration: none; /* Optional: Removes the default underline */
+}
 
+a:visited {
+        color: #5b5b5b; /* Ensures visited links are also red */
+}
 .publications body {
   font-family: Lato, sans-serif;
 }
