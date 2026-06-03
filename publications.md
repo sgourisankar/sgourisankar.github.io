@@ -3,6 +3,14 @@ layout: default
 title: Publications
 permalink: /publications/
 ---
+## 2026
+#### Activating p53Y220C with a mutant-specific small molecule
+X. Zhu\*, W.S. Byun\*, D.E. Pienkowska, K.T. Nguyen, M. Wang, S.A. Nettles, **S. Gourisankar**, N.A. Phillips, J. Gerhartz, Q. Geng, T. Qiu, J. Zhong, Z. Jiang, R.C. Sarott, S.M. Hinshaw, T. Zhang, L.D. Attardi, R.P. Nowak, N.S. Gray. *Nat. Commun.* (2026). https://doi.org/10.1038/s41467-026-72165-6.
+<div class="publication-buttons">
+    <a href="https://www.nature.com/articles/s41467-026-72165-6" class="button" target="_blank" rel="noopener noreferrer">Publication</a>
+  <a href="/assets/paperActivatingp53.pdf" class="button button-secondary" download>PDF</a>
+</div>
+
 
 ## 2025
 #### A bivalent molecular glue linking lysine acetyltransferases to oncogene-induced cell death
@@ -13,10 +21,10 @@ M.N. Nix\*, **S. Gourisankar\***, R.C. Sarott, B.G. Dwyer, S.A. Nettles, M.M. Ma
 </div>
 
 #### Rewiring the fusion oncoprotein EWS/FLI in Ewing sarcoma with bivalent small molecules
-M.J. Bond, R.P. Golden, G. DiGiovanni, B. Howard, R.C. Sarott, B.A. Karim, **S. Gourisankar**, G. Alexe, K. Ross, N.S. Gray, K. Stegmaier. 
+M.J. Bond\*, R.P. Golden\*, G. DiGiovanni, B. Howard, R.C. Sarott, B.A. Karim, **S. Gourisankar**, G. Alexe, K. Ross, H.M. Jones, B.G. Dwyer, N.S. Gray, K. Stegmaier. *J. Am. Chem. Soc.* **147**, 49, 44739–44758 (2025).
 <div class="publication-buttons">
-    <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11956950/" class="button" target="_blank" rel="noopener noreferrer">Preprint</a>
-  <a href="/assets/paperRewiringthe.pdf" class="button button-secondary" download>PDF</a>
+    <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11956950/" class="button" target="_blank" rel="noopener noreferrer">Publication</a>
+  <a href="/assets/paperRewiringEWS.pdf" class="button button-secondary" download>PDF</a>
 </div>
 
 #### Synaptic activity causes minute-scale changes to BAF complex composition and function
