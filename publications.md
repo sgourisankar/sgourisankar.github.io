@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 ## 2026
 #### Activating p53Y220C with a mutant-specific small molecule
-X. Zhu\*, W.S. Byun\*, D.E. Pienkowska, K.T. Nguyen, M. Wang, S.A. Nettles, **S. Gourisankar**, N.A. Phillips, J. Gerhartz, Q. Geng, T. Qiu, J. Zhong, Z. Jiang, R.C. Sarott, S.M. Hinshaw, T. Zhang, L.D. Attardi, R.P. Nowak, N.S. Gray. *Nat. Commun.* (2026). https://doi.org/10.1038/s41467-026-72165-6.
+X. Zhu\*, W.S. Byun\*, D.E. Pienkowska, K.T. Nguyen, M. Wang, S.A. Nettles, **S. Gourisankar**, N.A. Phillips, J. Gerhartz, Q. Geng, T. Qiu, J. Zhong, Z. Jiang, R.C. Sarott, S.M. Hinshaw, T. Zhang, L.D. Attardi, R.P. Nowak, N.S. Gray. *Nat. Commun.* (2026).
 <div class="publication-buttons">
     <a href="https://www.nature.com/articles/s41467-026-72165-6" class="button" target="_blank" rel="noopener noreferrer">Publication</a>
   <a href="/assets/paperActivatingp53.pdf" class="button button-secondary" download>PDF</a>
