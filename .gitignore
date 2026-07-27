@@ -2,5 +2,7 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .bundle/
-Gemfile.lock
-
+.DS_Store
+**/.DS_Store
+*.orig.pdf
+*.orig.ico
