@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 ## 2026
 #### A bivalent molecular glue linking lysine acetyltransferases to oncogene-induced cell death
-M.N. Nix\*, **S. Gourisankar\***, K.J. Bowman, S.A. Nettles, H. Yang, B.G. Dwyer, R.C. Sarott, H. Abuzaid, M.M. Martinez, N. Phillips, V. Cabaud, A. Hakobyan, V. Arakelov, G. Petrosyan, A. Davtyan, Y. Wang, J.M. Simanauskaite, B.A. Romero, H.M. Jones, A. Krokhotin, T.N. Lowensohn, L. Chen, C. Low, H. Vogel, M.M. Davis, D. Fernandez, T. Zhang, M.R. Green, S.M. Hinshaw, N.S. Gray, G.R. Crabtree.
+M.N. Nix\*, **S. Gourisankar\***, K.J. Bowman, S.A. Nettles, H. Yang, B.G. Dwyer, R.C. Sarott, H. Abuzaid, M.M. Martinez, N. Phillips, V. Cabaud, A. Hakobyan, V. Arakelov, G. Petrosyan, A. Davtyan, Y. Wang, J.M. Simanauskaite, B.A. Romero, H.M. Jones, A. Krokhotin, T.N. Lowensohn, L. Chen, C. Low, H. Vogel, M.M. Davis, D. Fernandez, T. Zhang, M.R. Green, S.M. Hinshaw, N.S. Gray, G.R. Crabtree. *Cell* (2026).
 <div class="publication-buttons">
     <a href="https://pubmed.ncbi.nlm.nih.gov/42476129/" class="button" target="_blank" rel="noopener noreferrer">Publication</a>
   <a href="/assets/paperAbivalent.pdf" class="button button-secondary" download>PDF</a>
