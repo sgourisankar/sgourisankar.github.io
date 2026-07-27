@@ -4,6 +4,13 @@ title: Publications
 permalink: /publications/
 ---
 ## 2026
+#### A bivalent molecular glue linking lysine acetyltransferases to oncogene-induced cell death
+M.N. Nix\*, **S. Gourisankar\***, K.J. Bowman, S.A. Nettles, H. Yang, B.G. Dwyer, R.C. Sarott, H. Abuzaid, M.M. Martinez, N. Phillips, V. Cabaud, A. Hakobyan, V. Arakelov, G. Petrosyan, A. Davtyan, Y. Wang, J.M. Simanauskaite, B.A. Romero, H.M. Jones, A. Krokhotin, T.N. Lowensohn, L. Chen, C. Low, H. Vogel, M.M. Davis, D. Fernandez, T. Zhang, M.R. Green, S.M. Hinshaw, N.S. Gray, G.R. Crabtree.
+<div class="publication-buttons">
+    <a href="https://pubmed.ncbi.nlm.nih.gov/42476129/" class="button" target="_blank" rel="noopener noreferrer">Publication</a>
+  <a href="/assets/paperAbivalent.pdf" class="button button-secondary" download>PDF</a>
+</div>
+
 #### Activating p53Y220C with a mutant-specific small molecule
 X. Zhu\*, W.S. Byun\*, D.E. Pienkowska, K.T. Nguyen, M. Wang, S.A. Nettles, **S. Gourisankar**, N.A. Phillips, J. Gerhartz, Q. Geng, T. Qiu, J. Zhong, Z. Jiang, R.C. Sarott, S.M. Hinshaw, T. Zhang, L.D. Attardi, R.P. Nowak, N.S. Gray. *Nat. Commun.* (2026).
 <div class="publication-buttons">
@@ -13,13 +20,6 @@ X. Zhu\*, W.S. Byun\*, D.E. Pienkowska, K.T. Nguyen, M. Wang, S.A. Nettles, **S.
 
 
 ## 2025
-#### A bivalent molecular glue linking lysine acetyltransferases to oncogene-induced cell death
-M.N. Nix\*, **S. Gourisankar\***, R.C. Sarott, B.G. Dwyer, S.A. Nettles, M.M. Martinez, H. Abuzaid, H. Yang, Y. Wang, J.M. Simanauskaite, B.A. Romero, H.M. Jones, A. Krokhotin, T.N. Lowensohn, L. Chen, C. Low, M.M. Davis, D. Fernandez, T. Zhang, M.R. Green, S.M. Hinshaw, N.S. Gray, G.R. Crabtree.
-<div class="publication-buttons">
-    <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11956963/" class="button" target="_blank" rel="noopener noreferrer">Preprint</a>
-  <a href="/assets/paperAbivalent.pdf" class="button button-secondary" download>PDF</a>
-</div>
-
 #### Rewiring the fusion oncoprotein EWS/FLI in Ewing sarcoma with bivalent small molecules
 M.J. Bond\*, R.P. Golden\*, G. DiGiovanni, B. Howard, R.C. Sarott, B.A. Karim, **S. Gourisankar**, G. Alexe, K. Ross, H.M. Jones, B.G. Dwyer, N.S. Gray, K. Stegmaier. *J. Am. Chem. Soc.* **147**, 49, 44739–44758 (2025).
 <div class="publication-buttons">

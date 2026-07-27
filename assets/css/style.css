@@ -3,11 +3,11 @@ body {
   margin: 0;
   padding: 0;
   line-height: 1.6;
-  color: #5b5b5b;
-  background: #ffffff;
+  color: #191919;
+  background: #F4F3EE;
 }
 a {
-        color: #5b5b5b; !important; /* Sets the default link color to same as text */
+        color: #191919; !important; /* Sets the default link color to same as text */
         text-decoration: none; !important; /* Optional: Removes the default underline */
 }
 
@@ -23,7 +23,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .site-header {
-  background: #f9f9f9;
+  background: #191919;
   padding: 1em;
   text-align: center;
 }
