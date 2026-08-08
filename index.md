@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-![Profile picture](/assets/img/profile.jpg){: .profile }
+![Profile picture](/assets/img/profile_hedcut.png){: .profile }
 
 **Sai Gourisankar, PhD** is an NCI K99/R00 Postdoctoral Fellow at the Stanford Cancer Institute in the laboratory of Prof. Nathanael Gray. His PhD was in chemical engineering, advised by Professor Gerald Crabtree, where he investigated mechanisms of epigenetic regulation in cancer and development. Dr. Gourisankar’s postdoctoral work focuses on developing new small molecule technologies to target and reprogram oncogenic drivers for therapeutic applications, particularly using chemical induced proximity approaches and enabled by biochemistry and genomics.
 
